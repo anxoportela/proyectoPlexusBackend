@@ -1,0 +1,8 @@
+#tabla alojamientos
+INSERT INTO alojamientos(titulo, descripcion, comunidad, tipo, valoracion, wifi, desayuno, imagen, anadido) VALUES ('Apartamento con vistas al mar','Apartamento con tres habitaciones, dos baños y unas espectaculares vistas al mar.','Galicia','apartamento',4,true,true,'https://via.placeholder.com/360x180?text=Imagen_1','1 de febrero de 2021');
+INSERT INTO alojamientos(titulo, descripcion, comunidad, tipo, valoracion, wifi, desayuno, imagen, anadido) VALUES ('Apartamento con vistas a la ría','Apartamento con tres habitaciones, dos baños y unas espectaculares vistas al mar.','Galicia','apartamento',4,true,true,'https://via.placeholder.com/360x180?text=Imagen_2','1 de febrero de 2021');
+INSERT INTO alojamientos(titulo, descripcion, comunidad, tipo, valoracion, wifi, desayuno, imagen, anadido) VALUES ('Apartamento con vistas al monte','Apartamento con tres habitaciones, dos baños y unas espectaculares vistas al mar.','Galicia','apartamento',4,true,true,'https://via.placeholder.com/360x180?text=Imagen_3','1 de febrero de 2021');
+INSERT INTO alojamientos(titulo, descripcion, comunidad, tipo, valoracion, wifi, desayuno, imagen, anadido) VALUES ('Apartamento con vistas a la fuente','Apartamento con tres habitaciones, dos baños y unas espectaculares vistas al mar.','Galicia','apartamento',4,true,true,'https://via.placeholder.com/360x180?text=Imagen_4','1 de febrero de 2021');
+INSERT INTO alojamientos(titulo, descripcion, comunidad, tipo, valoracion, wifi, desayuno, imagen, anadido) VALUES ('Apartamento con vistas al río','Apartamento con tres habitaciones, dos baños y unas espectaculares vistas al mar.','Galicia','apartamento',4,true,true,'https://via.placeholder.com/360x180?text=Imagen_5','1 de febrero de 2021');
+
+
